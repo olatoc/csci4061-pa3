@@ -1,5 +1,5 @@
 # This was a project for the class CSCI 4061: Introduction to Operating Systems
-# CSCI4061-Assignment3
+# CSCI4061-pa3
 
                 /*
                 * test machine: csel-kh1250-01.cselabs.umn.edu * date: 11/13/19
